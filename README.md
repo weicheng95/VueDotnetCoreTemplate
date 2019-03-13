@@ -1,6 +1,9 @@
 # VueDotnetCoreTemplate
-this is a spa with asp.net core and vue
+this is a SPA with Asp.net core and Vue.js
 
+# Tutorial
+https://medium.com/@weicheng0324094/the-easiest-way-to-get-started-with-asp-net-core-and-vue-cli-3-702767299532
 
-before you get start please run below command inside ClientApp:
+# Thing to do before run:
+Please run below command inside ClientApp:
 1. npm install
